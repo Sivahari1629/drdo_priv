@@ -21,8 +21,8 @@ public:
         {
             if(curr->left)
             {
-                TreeNode*pre=curr->left;
-                while(pre->right)
+                TreeNode* pre=curr->left;
+                while(pre->right!=NULL)
                 {
                     pre=pre->right;
                 }
@@ -32,5 +32,6 @@ public:
             }
             curr=curr->right;
         }
+       
     }
 };
