@@ -68,4 +68,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Sivahari1629/drdo_priv/tree/master/0257-binary-tree-paths) |
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Sivahari1629/drdo_priv/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Sivahari1629/drdo_priv/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Sivahari1629/drdo_priv/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
