@@ -30,10 +30,9 @@ TreeNode* rightt(TreeNode* root)
         {
             return root->left;
         }
-
-        TreeNode* rightone=root->right;
+        TreeNode* currright=root->right;
         TreeNode* rightmost=rightt(root->left);
-        rightmost->right=rightone;
+        rightmost->right=currright;
 
         return root->left;
     }
@@ -42,36 +41,22 @@ TreeNode* rightt(TreeNode* root)
         {
             return NULL;
         }
-        if(root->val==key)
+        
+         if(root->val<key)
         {
+            root->right=deleteNode(root->right,key);
+
+        }
+        
+        if(root->val>key)
+        {
+            root->left=deleteNode(root->left,key);
+        }
+        
+        if(root->val==key){
             return helper(root);
         }
-        TreeNode* curr=root;
-        while(root)
-        {
-            if(root->val>key)
-            {
-                if(root->left!=NULL&&root->left->val==key)
-                {
-                    root->left=helper(root->left);
-                    break;
-                }
-                else{
-                    root=root->left;
-                }
-
-            }
-            else{
-                if(root->right!=NULL&&root->right->val==key)
-                {
-                    root->right=helper(root->right);
-                    break;
-                }
-                else{
-                    root=root->right;
-                }
-            }
-        }
-        return curr;
+       
+        return root;
     }
 };
