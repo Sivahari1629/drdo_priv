@@ -28,7 +28,7 @@ public:
             {
                 ans.push_back(a1[x++]);
             }
-            if(i%2==0)
+            if(i%2!=0)
             {
                 ans.push_back(a2[y++]);
             }
