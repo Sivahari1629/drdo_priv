@@ -1,69 +1,28 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-TreeNode* search(TreeNode* root, int x)
-{
-    if(root == NULL) return NULL;
+    TreeNode* first = NULL;
+    TreeNode* second = NULL;
+    TreeNode* prev = NULL;
 
-    if(root->val == x) return root;
+    void inorder(TreeNode* root) {
+        if(root == NULL) return;
 
-    TreeNode* left = search(root->left, x);
-    if(left != NULL) return left;
+        inorder(root->left);
 
-    return search(root->right, x);
-}
-void swapy(TreeNode* root, int x,int y)
-{
-    TreeNode* root1=search(root,x);
-    TreeNode* root2=search(root,y);
-    swap(root1->val,root2->val);
-    
-}
-    void inorder(TreeNode* root,vector<int>&ans)
-    {
-        if(root==NULL)
-        {
-            return;
-        }
-      
-       
-        inorder(root->left,ans);
-        ans.push_back(root->val);
-        inorder(root->right,ans);
-       
-       
-        
-        
-    }
-    void recoverTree(TreeNode* root) {
-        if(root==NULL)
-        {
-            return;
-        }
-        vector<int>ans;
-        inorder(root,ans);
-        int x=0;
-        int y=0;
-        for(int i=0;i<ans.size()-1;i++)
-        {
-            if(ans[i]>ans[i+1])
-            {
-                if(x==0)
-                {x=ans[i];
-                }
-                y=ans[i+1];
+        if(prev != NULL && prev->val > root->val) {
+            if(first == NULL) {
+                first = prev;
             }
+            second = root;
         }
-        swapy(root,x,y);
+
+        prev = root;
+
+        inorder(root->right);
+    }
+
+    void recoverTree(TreeNode* root) {
+        inorder(root);
+        swap(first->val, second->val);
     }
 };
