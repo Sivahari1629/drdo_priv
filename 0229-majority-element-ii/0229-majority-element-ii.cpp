@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-        unordered_map<int,int>mp;
+        map<int,int>mp;
         vector<int>ans;
         int minimum=(nums.size()/3)+1;
         for(int i=0;i<nums.size();i++)
@@ -16,6 +16,7 @@ public:
                 break;
             }
         }
+        sort(ans.begin(),ans.end());
         return ans;
         
        
