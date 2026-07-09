@@ -16,7 +16,7 @@ public:
                 break;
             }
         }
-        sort(ans.begin(),ans.end());
+       
         return ans;
         
        
