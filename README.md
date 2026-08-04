@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sivahari1629/drdo_priv/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Sivahari1629/drdo_priv/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Sivahari1629/drdo_priv/tree/master/0099-recover-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sivahari1629/drdo_priv/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0173-binary-search-tree-iterator](https://github.com/Sivahari1629/drdo_priv/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sivahari1629/drdo_priv/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Sivahari1629/drdo_priv/tree/master/0222-count-complete-tree-nodes) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sivahari1629/drdo_priv/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sivahari1629/drdo_priv/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Sivahari1629/drdo_priv/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sivahari1629/drdo_priv/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Sivahari1629/drdo_priv/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sivahari1629/drdo_priv/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sivahari1629/drdo_priv/tree/master/0209-minimum-size-subarray-sum) |
