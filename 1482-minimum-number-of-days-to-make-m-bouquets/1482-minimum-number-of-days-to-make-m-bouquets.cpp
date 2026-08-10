@@ -30,7 +30,7 @@ public:
             return -1;
         }
         long long result=0;
-        int low=*min_element(bloomDay.begin(),bloomDay.end());
+        int low=1;
         int high=*max_element(bloomDay.begin(),bloomDay.end());
         while(low<=high)
         {
