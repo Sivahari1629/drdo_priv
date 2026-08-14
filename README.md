@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Sivahari1629/drdo_priv/tree/master/0008-string-to-integer-atoi) |
 | [0257-binary-tree-paths](https://github.com/Sivahari1629/drdo_priv/tree/master/0257-binary-tree-paths) |
 | [1021-remove-outermost-parentheses](https://github.com/Sivahari1629/drdo_priv/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Sivahari1629/drdo_priv/tree/master/1903-largest-odd-number-in-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sivahari1629/drdo_priv/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Sivahari1629/drdo_priv/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Sivahari1629/drdo_priv/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/Sivahari1629/drdo_priv/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Sivahari1629/drdo_priv/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Sivahari1629/drdo_priv/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
