@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Sivahari1629/drdo_priv/tree/master/0008-string-to-integer-atoi) |
 | [0257-binary-tree-paths](https://github.com/Sivahari1629/drdo_priv/tree/master/0257-binary-tree-paths) |
+| [0796-rotate-string](https://github.com/Sivahari1629/drdo_priv/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Sivahari1629/drdo_priv/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Sivahari1629/drdo_priv/tree/master/1903-largest-odd-number-in-string) |
 ## Backtracking
@@ -282,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Sivahari1629/drdo_priv/tree/master/1903-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Sivahari1629/drdo_priv/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
