@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Sivahari1629/drdo_priv/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sivahari1629/drdo_priv/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sivahari1629/drdo_priv/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0410-split-array-largest-sum](https://github.com/Sivahari1629/drdo_priv/tree/master/0410-split-array-largest-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/Sivahari1629/drdo_priv/tree/master/0450-delete-node-in-a-bst) |
 | [0493-reverse-pairs](https://github.com/Sivahari1629/drdo_priv/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sivahari1629/drdo_priv/tree/master/0540-single-element-in-a-sorted-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sivahari1629/drdo_priv/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sivahari1629/drdo_priv/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Sivahari1629/drdo_priv/tree/master/0229-majority-element-ii) |
+| [0410-split-array-largest-sum](https://github.com/Sivahari1629/drdo_priv/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Sivahari1629/drdo_priv/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Sivahari1629/drdo_priv/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sivahari1629/drdo_priv/tree/master/0540-single-element-in-a-sorted-array) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sivahari1629/drdo_priv/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sivahari1629/drdo_priv/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Sivahari1629/drdo_priv/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/Sivahari1629/drdo_priv/tree/master/0410-split-array-largest-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sivahari1629/drdo_priv/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/Sivahari1629/drdo_priv/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sivahari1629/drdo_priv/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Sivahari1629/drdo_priv/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Sivahari1629/drdo_priv/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
