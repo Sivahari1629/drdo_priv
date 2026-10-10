@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sivahari1629/drdo_priv/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Sivahari1629/drdo_priv/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sivahari1629/drdo_priv/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Sivahari1629/drdo_priv/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sivahari1629/drdo_priv/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Sivahari1629/drdo_priv/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sivahari1629/drdo_priv/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Simulation
 |  |
@@ -295,4 +297,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Sivahari1629/drdo_priv/tree/master/0796-rotate-string) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Sivahari1629/drdo_priv/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Sivahari1629/drdo_priv/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
